@@ -1,5 +1,5 @@
 # my_projects
-## Arquivos de backup e projetos em andamento
+## Arquivos de backup e pequenos projetos
 ##
 <img src="https://github.com/LuizSimoes/my_projects/blob/master/cat-typing-22.gif">
 
